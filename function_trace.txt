@@ -1,0 +1,765 @@
+Image loaded: C:\Program Files\Mozilla Firefox\firefox.exe at 12c0000
+Image loaded: C:\Program Files\Mozilla Firefox\xul.dll at 645b0000
+Image loaded: C:\Program Files\Mozilla Firefox\gkmedias.dll at 679f0000
+Image loaded: C:\Program Files\Mozilla Firefox\mozjs.dll at 68b30000
+Image loaded: C:\Windows\system32\mscms.dll at 6a000000
+Image loaded: C:\Program Files\Mozilla Firefox\nssckbi.dll at 6a080000
+Image loaded: C:\Program Files\Mozilla Firefox\nss3.dll at 6a0f0000
+Image loaded: C:\Windows\system32\dwrite.dll at 6bd10000
+Image loaded: C:\Program Files\Mozilla Firefox\MSVCR100.dll at 6be50000
+Image loaded: C:\Program Files\Mozilla Firefox\freebl3.dll at 6c0b0000
+Image loaded: C:\Program Files\Mozilla Firefox\softokn3.dll at 6d880000
+Image loaded: C:\Program Files\Mozilla Firefox\MSVCP100.dll at 6d8b0000
+Image loaded: C:\Program Files\Mozilla Firefox\mozglue.dll at 6d920000
+Image loaded: C:\Windows\system32\AUDIOSES.DLL at 6de60000
+Image loaded: C:\Windows\system32\dbghelp.dll at 6e900000
+Image loaded: C:\Windows\system32\WINMM.dll at 6f550000
+Image loaded: C:\Windows\system32\WSOCK32.dll at 6f6e0000
+Image loaded: C:\Windows\System32\winrnr.dll at 6f8a0000
+Image loaded: C:\Windows\system32\MSIMG32.dll at 6f9e0000
+Image loaded: C:\Windows\system32\pnrpnsp.dll at 6fae0000
+Image loaded: C:\Windows\system32\napinsp.dll at 6fb00000
+Image loaded: C:\Windows\system32\explorerframe.dll at 70580000
+Image loaded: C:\Windows\system32\rasadhlp.dll at 70c60000
+Image loaded: C:\Windows\system32\wbem\wbemsvc.dll at 70cc0000
+Image loaded: C:\Windows\system32\wbem\wbemprox.dll at 70ee0000
+Image loaded: C:\Windows\system32\NTDSAPI.dll at 70f30000
+Image loaded: C:\Windows\system32\wbem\fastprox.dll at 70fd0000
+Image loaded: C:\Windows\system32\api-ms-win-downlevel-advapi32-l2-1-0.dll at 71240000
+Image loaded: C:\Windows\system32\wbemcomn.dll at 712a0000
+Image loaded: C:\Program Files\Mozilla Firefox\nssdbm3.dll at 71ae0000
+Image loaded: C:\Windows\system32\api-ms-win-downlevel-shlwapi-l2-1-0.dll at 72060000
+Image loaded: C:\Program Files\Mozilla Firefox\mozalloc.dll at 723f0000
+Image loaded: C:\Windows\system32\SAMCLI.DLL at 72f10000
+Image loaded: C:\Windows\system32\wkscli.dll at 730e0000
+Image loaded: C:\Windows\system32\netutils.dll at 73230000
+Image loaded: C:\Windows\system32\NETAPI32.dll at 73240000
+Image loaded: C:\Windows\System32\fwpuclnt.dll at 733d0000
+Image loaded: C:\Windows\system32\dwmapi.dll at 73410000
+Image loaded: C:\Windows\system32\DUser.dll at 73560000
+Image loaded: C:\Windows\system32\DUI70.dll at 73600000
+Image loaded: C:\Windows\system32\NLAapi.dll at 73830000
+Image loaded: C:\Windows\system32\UxTheme.dll at 73b00000
+Image loaded: C:\Windows\system32\propsys.dll at 73b80000
+Image loaded: C:\Windows\System32\MMDevApi.dll at 73c80000
+Image loaded: C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\comctl32.dll at 73e30000
+Image loaded: C:\Program Files\Mozilla Firefox\browser\components\browsercomps.dll at 74470000
+Image loaded: C:\Windows\System32\wshtcpip.dll at 744b0000
+Image loaded: C:\Windows\system32\ntmarta.dll at 74520000
+Image loaded: C:\Windows\system32\WINNSI.DLL at 74550000
+Image loaded: C:\Windows\system32\IPHLPAPI.DLL at 74560000
+Image loaded: C:\Windows\system32\VERSION.dll at 74580000
+Image loaded: C:\Windows\system32\rsaenh.dll at 74790000
+Image loaded: C:\Windows\system32\DNSAPI.dll at 74870000
+Image loaded: C:\Windows\System32\wship6.dll at 749a0000
+Image loaded: C:\Windows\system32\mswsock.dll at 749b0000
+Image loaded: C:\Windows\system32\CRYPTSP.dll at 749f0000
+Image loaded: C:\Windows\system32\srvcli.dll at 74be0000
+Image loaded: C:\Windows\system32\Secur32.dll at 74c70000
+Image loaded: C:\Windows\system32\SSPICLI.DLL at 74e60000
+Image loaded: C:\Windows\system32\CRYPTBASE.dll at 74ed0000
+Image loaded: C:\Windows\system32\RpcRtRemote.dll at 74f40000
+Image loaded: C:\Windows\system32\profapi.dll at 74fe0000
+Image loaded: C:\Windows\system32\MSASN1.dll at 74ff0000
+Image loaded: C:\Windows\system32\CFGMGR32.dll at 75000000
+Image loaded: C:\Windows\system32\DEVOBJ.dll at 75030000
+Image loaded: C:\Windows\system32\api-ms-win-downlevel-shlwapi-l1-1-0.dll at 750e0000
+Image loaded: C:\Windows\system32\api-ms-win-downlevel-version-l1-1-0.dll at 750f0000
+Image loaded: C:\Windows\system32\USERENV.dll at 75100000
+Image loaded: C:\Windows\system32\CRYPT32.dll at 75120000
+Image loaded: C:\Windows\system32\KERNELBASE.dll at 75240000
+Image loaded: C:\Windows\system32\api-ms-win-downlevel-normaliz-l1-1-0.dll at 75290000
+Image loaded: C:\Windows\system32\WINTRUST.dll at 752a0000
+Image loaded: C:\Windows\system32\api-ms-win-downlevel-ole32-l1-1-0.dll at 752d0000
+Image loaded: C:\Windows\system32\api-ms-win-downlevel-advapi32-l1-1-0.dll at 752e0000
+Image loaded: C:\Windows\system32\api-ms-win-downlevel-user32-l1-1-0.dll at 752f0000
+Image loaded: C:\Windows\system32\GDI32.dll at 75300000
+Image loaded: C:\Windows\system32\NSI.dll at 75350000
+Image loaded: C:\Windows\system32\WS2_32.dll at 75360000
+ws2_32\.DLL:WSARecv$ matches C:\Windows\system32\WS2_32.dll:WSARecv
+WSARecv loaded
+Image loaded: C:\Windows\system32\SHELL32.dll at 753a0000
+Image loaded: C:\Windows\system32\iertutil.dll at 76070000
+Image loaded: C:\Windows\system32\WLDAP32.dll at 76290000
+Image loaded: C:\Windows\system32\USER32.dll at 76310000
+Image loaded: C:\Windows\system32\CLBCatQ.DLL at 763e0000
+Image loaded: C:\Windows\system32\USP10.dll at 765a0000
+Image loaded: C:\Windows\system32\ADVAPI32.dll at 76640000
+Image loaded: C:\Windows\SYSTEM32\sechost.dll at 766e0000
+Image loaded: C:\Windows\system32\kernel32.dll at 76700000
+Image loaded: C:\Windows\system32\PSAPI.DLL at 767e0000
+Image loaded: C:\Windows\system32\ole32.dll at 767f0000
+Image loaded: C:\Windows\system32\RPCRT4.dll at 76950000
+Image loaded: C:\Windows\system32\IMM32.DLL at 76a00000
+Image loaded: C:\Windows\system32\msvcrt.dll at 76a20000
+Image loaded: C:\Windows\system32\OLEAUT32.dll at 76b30000
+Image loaded: C:\Windows\system32\SHLWAPI.dll at 76bc0000
+Image loaded: C:\Windows\system32\SETUPAPI.dll at 76c20000
+Image loaded: C:\Windows\system32\WININET.dll at 76dc0000
+Image loaded: C:\Windows\SYSTEM32\ntdll.dll at 76f80000
+Image loaded: C:\Windows\system32\LPK.dll at 770c0000
+Image loaded: C:\Windows\system32\normaliz.DLL at 770d0000
+Image loaded: C:\Windows\system32\MSCTF.dll at 770e0000
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 5c4 :Arg1: 58af6c8 :Arg2: 1 :Arg3: 58af6e0 :Arg4: 58af6dc :Arg5: 0 :Arg6: 0 :Arg7: 1 :Arg8: 58af997
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 5c4 :Arg1: 58ae720 :Arg2: 1 :Arg3: 58ae738 :Arg4: 58ae734 :Arg5: 0 :Arg6: 0 :Arg7: fa0 :Arg8: 58ae9fc
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 5ac :Arg1: 58af628 :Arg2: 1 :Arg3: 58af640 :Arg4: 58af63c :Arg5: 0 :Arg6: 0 :Arg7: 1 :Arg8: 58af8f7
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 6e0 :Arg1: 58af420 :Arg2: 1 :Arg3: 58af438 :Arg4: 58af434 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: f3192b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 6e0 :Arg1: 58af438 :Arg2: 1 :Arg3: 58af450 :Arg4: 58af44c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: f3192b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af420 :Arg2: 1 :Arg3: 58af438 :Arg4: 58af434 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af438 :Arg2: 1 :Arg3: 58af450 :Arg4: 58af44c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af3a0 :Arg2: 1 :Arg3: 58af3b8 :Arg4: 58af3b4 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af420 :Arg2: 1 :Arg3: 58af438 :Arg4: 58af434 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af438 :Arg2: 1 :Arg3: 58af450 :Arg4: 58af44c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 628 :Arg1: 58af420 :Arg2: 1 :Arg3: 58af438 :Arg4: 58af434 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: d38b2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 628 :Arg1: 58af438 :Arg2: 1 :Arg3: 58af450 :Arg4: 58af44c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: d38b2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 6e0 :Arg1: 58af478 :Arg2: 1 :Arg3: 58af490 :Arg4: 58af48c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: f3192b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 6e0 :Arg1: 58af490 :Arg2: 1 :Arg3: 58af4a8 :Arg4: 58af4a4 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: f3192b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af478 :Arg2: 1 :Arg3: 58af490 :Arg4: 58af48c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af490 :Arg2: 1 :Arg3: 58af4a8 :Arg4: 58af4a4 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af3f8 :Arg2: 1 :Arg3: 58af410 :Arg4: 58af40c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af478 :Arg2: 1 :Arg3: 58af490 :Arg4: 58af48c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af490 :Arg2: 1 :Arg3: 58af4a8 :Arg4: 58af4a4 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 628 :Arg1: 58af478 :Arg2: 1 :Arg3: 58af490 :Arg4: 58af48c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: d38b2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 628 :Arg1: 58af490 :Arg2: 1 :Arg3: 58af4a8 :Arg4: 58af4a4 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: d38b2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 6cc :Arg1: 58af5f0 :Arg2: 1 :Arg3: 58af608 :Arg4: 58af604 :Arg5: 0 :Arg6: 0 :Arg7: 1 :Arg8: 58af8bf
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 63c :Arg1: 58af5f0 :Arg2: 1 :Arg3: 58af608 :Arg4: 58af604 :Arg5: 0 :Arg6: 0 :Arg7: 1 :Arg8: 58af8bf
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 6e0 :Arg1: 58af4f0 :Arg2: 1 :Arg3: 58af508 :Arg4: 58af504 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: f3192b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 624 :Arg1: 58af5f0 :Arg2: 1 :Arg3: 58af608 :Arg4: 58af604 :Arg5: 0 :Arg6: 0 :Arg7: 1 :Arg8: 58af8bf
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af4f0 :Arg2: 1 :Arg3: 58af508 :Arg4: 58af504 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 6b4 :Arg1: 58af4f0 :Arg2: 1 :Arg3: 58af508 :Arg4: 58af504 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e5062b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 5fc :Arg1: 58af5f0 :Arg2: 1 :Arg3: 58af608 :Arg4: 58af604 :Arg5: 0 :Arg6: 0 :Arg7: 1 :Arg8: 58af8bf
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 5ac :Arg1: 58af5f0 :Arg2: 1 :Arg3: 58af608 :Arg4: 58af604 :Arg5: 0 :Arg6: 0 :Arg7: 1 :Arg8: 58af8bf
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 628 :Arg1: 58af4f0 :Arg2: 1 :Arg3: 58af508 :Arg4: 58af504 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: d38b2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 82c :Arg1: 58af508 :Arg2: 1 :Arg3: 58af520 :Arg4: 58af51c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 74c02b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 82c :Arg1: 58af470 :Arg2: 1 :Arg3: 58af488 :Arg4: 58af484 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 74c02b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 82c :Arg1: 58af320 :Arg2: 1 :Arg3: 58af338 :Arg4: 58af334 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 74c02b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 82c :Arg1: 58af320 :Arg2: 1 :Arg3: 58af338 :Arg4: 58af334 :Arg5: 0 :Arg6: 0 :Arg7: 5e :Arg8: d90e000
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 82c :Arg1: 58af320 :Arg2: 1 :Arg3: 58af338 :Arg4: 58af334 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 74c02b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 82c :Arg1: 58af320 :Arg2: 1 :Arg3: 58af338 :Arg4: 58af334 :Arg5: 0 :Arg6: 0 :Arg7: c34 :Arg8: d90e000
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 82c :Arg1: 58af320 :Arg2: 1 :Arg3: 58af338 :Arg4: 58af334 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 74c02b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 82c :Arg1: 58af320 :Arg2: 1 :Arg3: 58af338 :Arg4: 58af334 :Arg5: 0 :Arg6: 0 :Arg7: 14d :Arg8: d90e000
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 82c :Arg1: 58af320 :Arg2: 1 :Arg3: 58af338 :Arg4: 58af334 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 74c02b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 82c :Arg1: 58af320 :Arg2: 1 :Arg3: 58af338 :Arg4: 58af334 :Arg5: 0 :Arg6: 0 :Arg7: 4 :Arg8: d90e000
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 82c :Arg1: 58af320 :Arg2: 1 :Arg3: 58af338 :Arg4: 58af334 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 74c02b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 81c :Arg1: 58af508 :Arg2: 1 :Arg3: 58af520 :Arg4: 58af51c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 64352b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 81c :Arg1: 58af470 :Arg2: 1 :Arg3: 58af488 :Arg4: 58af484 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 64352b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 81c :Arg1: 58af320 :Arg2: 1 :Arg3: 58af338 :Arg4: 58af334 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 64352b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 820 :Arg1: 58af508 :Arg2: 1 :Arg3: 58af520 :Arg4: 58af51c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 6dc22b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 820 :Arg1: 58af470 :Arg2: 1 :Arg3: 58af488 :Arg4: 58af484 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 6dc22b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 820 :Arg1: 58af320 :Arg2: 1 :Arg3: 58af338 :Arg4: 58af334 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 6dc22b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 82c :Arg1: 58af518 :Arg2: 1 :Arg3: 58af530 :Arg4: 58af52c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 74c02b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 82c :Arg1: 58af518 :Arg2: 1 :Arg3: 58af530 :Arg4: 58af52c :Arg5: 0 :Arg6: 0 :Arg7: fe :Arg8: d90e000
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 82c :Arg1: 58af518 :Arg2: 1 :Arg3: 58af530 :Arg4: 58af52c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 74c02b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 82c :Arg1: 58af518 :Arg2: 1 :Arg3: 58af530 :Arg4: 58af52c :Arg5: 0 :Arg6: 0 :Arg7: 1 :Arg8: d90e000
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 82c :Arg1: 58af518 :Arg2: 1 :Arg3: 58af530 :Arg4: 58af52c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 74c02b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 82c :Arg1: 58af518 :Arg2: 1 :Arg3: 58af530 :Arg4: 58af52c :Arg5: 0 :Arg6: 0 :Arg7: 28 :Arg8: d90e000
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 63c :Arg1: 58af610 :Arg2: 1 :Arg3: 58af628 :Arg4: 58af624 :Arg5: 0 :Arg6: 0 :Arg7: 1 :Arg8: 58af8df
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 81c :Arg1: 58af518 :Arg2: 1 :Arg3: 58af530 :Arg4: 58af52c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 64352b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 81c :Arg1: 58af518 :Arg2: 1 :Arg3: 58af530 :Arg4: 58af52c :Arg5: 0 :Arg6: 0 :Arg7: 5e :Arg8: f796000
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 81c :Arg1: 58af518 :Arg2: 1 :Arg3: 58af530 :Arg4: 58af52c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 64352b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 81c :Arg1: 58af518 :Arg2: 1 :Arg3: 58af530 :Arg4: 58af52c :Arg5: 0 :Arg6: 0 :Arg7: c34 :Arg8: f796000
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 81c :Arg1: 58af518 :Arg2: 1 :Arg3: 58af530 :Arg4: 58af52c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 64352b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 81c :Arg1: 58af518 :Arg2: 1 :Arg3: 58af530 :Arg4: 58af52c :Arg5: 0 :Arg6: 0 :Arg7: 14d :Arg8: f796000
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 81c :Arg1: 58af518 :Arg2: 1 :Arg3: 58af530 :Arg4: 58af52c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 64352b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 81c :Arg1: 58af518 :Arg2: 1 :Arg3: 58af530 :Arg4: 58af52c :Arg5: 0 :Arg6: 0 :Arg7: 4 :Arg8: f796000
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 81c :Arg1: 58af518 :Arg2: 1 :Arg3: 58af530 :Arg4: 58af52c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 64352b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 820 :Arg1: 58af518 :Arg2: 1 :Arg3: 58af530 :Arg4: 58af52c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 6dc22b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 820 :Arg1: 58af518 :Arg2: 1 :Arg3: 58af530 :Arg4: 58af52c :Arg5: 0 :Arg6: 0 :Arg7: 5e :Arg8: f79c000
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 820 :Arg1: 58af518 :Arg2: 1 :Arg3: 58af530 :Arg4: 58af52c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 6dc22b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 820 :Arg1: 58af518 :Arg2: 1 :Arg3: 58af530 :Arg4: 58af52c :Arg5: 0 :Arg6: 0 :Arg7: c34 :Arg8: f79c000
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 820 :Arg1: 58af518 :Arg2: 1 :Arg3: 58af530 :Arg4: 58af52c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 6dc22b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 820 :Arg1: 58af518 :Arg2: 1 :Arg3: 58af530 :Arg4: 58af52c :Arg5: 0 :Arg6: 0 :Arg7: 14d :Arg8: f79c000
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 820 :Arg1: 58af518 :Arg2: 1 :Arg3: 58af530 :Arg4: 58af52c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 6dc22b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 820 :Arg1: 58af518 :Arg2: 1 :Arg3: 58af530 :Arg4: 58af52c :Arg5: 0 :Arg6: 0 :Arg7: 4 :Arg8: f79c000
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 820 :Arg1: 58af518 :Arg2: 1 :Arg3: 58af530 :Arg4: 58af52c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 6dc22b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 6e0 :Arg1: 58af478 :Arg2: 1 :Arg3: 58af490 :Arg4: 58af48c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: f3192b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 6e0 :Arg1: 58af490 :Arg2: 1 :Arg3: 58af4a8 :Arg4: 58af4a4 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: f3192b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af478 :Arg2: 1 :Arg3: 58af490 :Arg4: 58af48c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af490 :Arg2: 1 :Arg3: 58af4a8 :Arg4: 58af4a4 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af3f8 :Arg2: 1 :Arg3: 58af410 :Arg4: 58af40c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af478 :Arg2: 1 :Arg3: 58af490 :Arg4: 58af48c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af490 :Arg2: 1 :Arg3: 58af4a8 :Arg4: 58af4a4 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 628 :Arg1: 58af478 :Arg2: 1 :Arg3: 58af490 :Arg4: 58af48c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: d38b2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 628 :Arg1: 58af490 :Arg2: 1 :Arg3: 58af4a8 :Arg4: 58af4a4 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: d38b2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 81c :Arg1: 58af518 :Arg2: 1 :Arg3: 58af530 :Arg4: 58af52c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 64352b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 81c :Arg1: 58af518 :Arg2: 1 :Arg3: 58af530 :Arg4: 58af52c :Arg5: 0 :Arg6: 0 :Arg7: fe :Arg8: f796000
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 81c :Arg1: 58af518 :Arg2: 1 :Arg3: 58af530 :Arg4: 58af52c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 64352b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 81c :Arg1: 58af518 :Arg2: 1 :Arg3: 58af530 :Arg4: 58af52c :Arg5: 0 :Arg6: 0 :Arg7: 1 :Arg8: f796000
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 81c :Arg1: 58af518 :Arg2: 1 :Arg3: 58af530 :Arg4: 58af52c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 64352b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 81c :Arg1: 58af518 :Arg2: 1 :Arg3: 58af530 :Arg4: 58af52c :Arg5: 0 :Arg6: 0 :Arg7: 28 :Arg8: f796000
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 63c :Arg1: 58af620 :Arg2: 1 :Arg3: 58af638 :Arg4: 58af634 :Arg5: 0 :Arg6: 0 :Arg7: 8000 :Arg8: a41e000
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 6cc :Arg1: 58af5f0 :Arg2: 1 :Arg3: 58af608 :Arg4: 58af604 :Arg5: 0 :Arg6: 0 :Arg7: 1 :Arg8: 58af8bf
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 6e0 :Arg1: 58af4f0 :Arg2: 1 :Arg3: 58af508 :Arg4: 58af504 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: f3192b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 624 :Arg1: 58af5f0 :Arg2: 1 :Arg3: 58af608 :Arg4: 58af604 :Arg5: 0 :Arg6: 0 :Arg7: 1 :Arg8: 58af8bf
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af4f0 :Arg2: 1 :Arg3: 58af508 :Arg4: 58af504 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 6b4 :Arg1: 58af4f0 :Arg2: 1 :Arg3: 58af508 :Arg4: 58af504 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e5062b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 5fc :Arg1: 58af5f0 :Arg2: 1 :Arg3: 58af608 :Arg4: 58af604 :Arg5: 0 :Arg6: 0 :Arg7: 1 :Arg8: 58af8bf
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 5ac :Arg1: 58ae658 :Arg2: 1 :Arg3: 58ae670 :Arg4: 58ae66c :Arg5: 0 :Arg6: 0 :Arg7: fa0 :Arg8: 58ae938
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 628 :Arg1: 58af4f0 :Arg2: 1 :Arg3: 58af508 :Arg4: 58af504 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: d38b2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 820 :Arg1: 58af518 :Arg2: 1 :Arg3: 58af530 :Arg4: 58af52c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 6dc22b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 820 :Arg1: 58af518 :Arg2: 1 :Arg3: 58af530 :Arg4: 58af52c :Arg5: 0 :Arg6: 0 :Arg7: fe :Arg8: f79c000
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 820 :Arg1: 58af518 :Arg2: 1 :Arg3: 58af530 :Arg4: 58af52c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 6dc22b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 820 :Arg1: 58af518 :Arg2: 1 :Arg3: 58af530 :Arg4: 58af52c :Arg5: 0 :Arg6: 0 :Arg7: 1 :Arg8: f79c000
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 820 :Arg1: 58af518 :Arg2: 1 :Arg3: 58af530 :Arg4: 58af52c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 6dc22b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 820 :Arg1: 58af518 :Arg2: 1 :Arg3: 58af530 :Arg4: 58af52c :Arg5: 0 :Arg6: 0 :Arg7: 28 :Arg8: f79c000
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 6cc :Arg1: 58af610 :Arg2: 1 :Arg3: 58af628 :Arg4: 58af624 :Arg5: 0 :Arg6: 0 :Arg7: 1 :Arg8: 58af8df
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 63c :Arg1: 58af650 :Arg2: 1 :Arg3: 58af668 :Arg4: 58af664 :Arg5: 0 :Arg6: 0 :Arg7: 1 :Arg8: 58af91f
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 63c :Arg1: 58af5b8 :Arg2: 1 :Arg3: 58af5d0 :Arg4: 58af5cc :Arg5: 0 :Arg6: 0 :Arg7: 1 :Arg8: 58af887
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 5ac :Arg1: 58af628 :Arg2: 1 :Arg3: 58af640 :Arg4: 58af63c :Arg5: 0 :Arg6: 0 :Arg7: 1 :Arg8: 58af8f7
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 6e0 :Arg1: 58af420 :Arg2: 1 :Arg3: 58af438 :Arg4: 58af434 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: f3192b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 6e0 :Arg1: 58af438 :Arg2: 1 :Arg3: 58af450 :Arg4: 58af44c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: f3192b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af420 :Arg2: 1 :Arg3: 58af438 :Arg4: 58af434 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af438 :Arg2: 1 :Arg3: 58af450 :Arg4: 58af44c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af3a0 :Arg2: 1 :Arg3: 58af3b8 :Arg4: 58af3b4 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af420 :Arg2: 1 :Arg3: 58af438 :Arg4: 58af434 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af438 :Arg2: 1 :Arg3: 58af450 :Arg4: 58af44c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 628 :Arg1: 58af420 :Arg2: 1 :Arg3: 58af438 :Arg4: 58af434 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: d38b2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 628 :Arg1: 58af438 :Arg2: 1 :Arg3: 58af450 :Arg4: 58af44c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: d38b2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 6e0 :Arg1: 58af478 :Arg2: 1 :Arg3: 58af490 :Arg4: 58af48c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: f3192b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 6e0 :Arg1: 58af490 :Arg2: 1 :Arg3: 58af4a8 :Arg4: 58af4a4 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: f3192b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af478 :Arg2: 1 :Arg3: 58af490 :Arg4: 58af48c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af490 :Arg2: 1 :Arg3: 58af4a8 :Arg4: 58af4a4 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af3f8 :Arg2: 1 :Arg3: 58af410 :Arg4: 58af40c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af478 :Arg2: 1 :Arg3: 58af490 :Arg4: 58af48c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af490 :Arg2: 1 :Arg3: 58af4a8 :Arg4: 58af4a4 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 628 :Arg1: 58af478 :Arg2: 1 :Arg3: 58af490 :Arg4: 58af48c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: d38b2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 628 :Arg1: 58af490 :Arg2: 1 :Arg3: 58af4a8 :Arg4: 58af4a4 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: d38b2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 6cc :Arg1: 58af620 :Arg2: 1 :Arg3: 58af638 :Arg4: 58af634 :Arg5: 0 :Arg6: 0 :Arg7: 8000 :Arg8: 5df8000
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 6cc :Arg1: 58af650 :Arg2: 1 :Arg3: 58af668 :Arg4: 58af664 :Arg5: 0 :Arg6: 0 :Arg7: 1 :Arg8: 58af91f
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 6e0 :Arg1: 58af448 :Arg2: 1 :Arg3: 58af460 :Arg4: 58af45c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: f3192b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 6e0 :Arg1: 58af460 :Arg2: 1 :Arg3: 58af478 :Arg4: 58af474 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: f3192b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af448 :Arg2: 1 :Arg3: 58af460 :Arg4: 58af45c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af460 :Arg2: 1 :Arg3: 58af478 :Arg4: 58af474 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af3c8 :Arg2: 1 :Arg3: 58af3e0 :Arg4: 58af3dc :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af448 :Arg2: 1 :Arg3: 58af460 :Arg4: 58af45c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af460 :Arg2: 1 :Arg3: 58af478 :Arg4: 58af474 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 628 :Arg1: 58af448 :Arg2: 1 :Arg3: 58af460 :Arg4: 58af45c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: d38b2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 628 :Arg1: 58af460 :Arg2: 1 :Arg3: 58af478 :Arg4: 58af474 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: d38b2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 63c :Arg1: 58af620 :Arg2: 1 :Arg3: 58af638 :Arg4: 58af634 :Arg5: 0 :Arg6: 0 :Arg7: 8000 :Arg8: 7596000
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 63c :Arg1: 58af650 :Arg2: 1 :Arg3: 58af668 :Arg4: 58af664 :Arg5: 0 :Arg6: 0 :Arg7: 1 :Arg8: 58af91f
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 6e0 :Arg1: 58af448 :Arg2: 1 :Arg3: 58af460 :Arg4: 58af45c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: f3192b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 6e0 :Arg1: 58af460 :Arg2: 1 :Arg3: 58af478 :Arg4: 58af474 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: f3192b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af448 :Arg2: 1 :Arg3: 58af460 :Arg4: 58af45c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af460 :Arg2: 1 :Arg3: 58af478 :Arg4: 58af474 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af3c8 :Arg2: 1 :Arg3: 58af3e0 :Arg4: 58af3dc :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af448 :Arg2: 1 :Arg3: 58af460 :Arg4: 58af45c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af460 :Arg2: 1 :Arg3: 58af478 :Arg4: 58af474 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 628 :Arg1: 58af448 :Arg2: 1 :Arg3: 58af460 :Arg4: 58af45c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: d38b2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 628 :Arg1: 58af460 :Arg2: 1 :Arg3: 58af478 :Arg4: 58af474 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: d38b2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 81c :Arg1: 58ae558 :Arg2: 1 :Arg3: 58ae570 :Arg4: 58ae56c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 64352b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 81c :Arg1: 58ae558 :Arg2: 1 :Arg3: 58ae570 :Arg4: 58ae56c :Arg5: 0 :Arg6: 0 :Arg7: 34 :Arg8: f796000
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 81c :Arg1: 58ae558 :Arg2: 1 :Arg3: 58ae570 :Arg4: 58ae56c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 64352b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 81c :Arg1: 58ae558 :Arg2: 1 :Arg3: 58ae570 :Arg4: 58ae56c :Arg5: 0 :Arg6: 0 :Arg7: 28 :Arg8: f796000
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 81c :Arg1: 58ae558 :Arg2: 1 :Arg3: 58ae570 :Arg4: 58ae56c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 64352b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 81c :Arg1: 58ae558 :Arg2: 1 :Arg3: 58ae570 :Arg4: 58ae56c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 64352b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 81c :Arg1: 58ae558 :Arg2: 1 :Arg3: 58ae570 :Arg4: 58ae56c :Arg5: 0 :Arg6: 0 :Arg7: fb :Arg8: f796000
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 81c :Arg1: 58ae558 :Arg2: 1 :Arg3: 58ae570 :Arg4: 58ae56c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 64352b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 81c :Arg1: 58ae558 :Arg2: 1 :Arg3: 58ae570 :Arg4: 58ae56c :Arg5: 0 :Arg6: 0 :Arg7: 43 :Arg8: f796000
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 81c :Arg1: 58ae558 :Arg2: 1 :Arg3: 58ae570 :Arg4: 58ae56c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 64352b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 81c :Arg1: 58ae558 :Arg2: 1 :Arg3: 58ae570 :Arg4: 58ae56c :Arg5: 0 :Arg6: 0 :Arg7: 24 :Arg8: f796000
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 81c :Arg1: 58ae558 :Arg2: 1 :Arg3: 58ae570 :Arg4: 58ae56c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 64352b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 820 :Arg1: 58ae558 :Arg2: 1 :Arg3: 58ae570 :Arg4: 58ae56c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 6dc22b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 820 :Arg1: 58ae558 :Arg2: 1 :Arg3: 58ae570 :Arg4: 58ae56c :Arg5: 0 :Arg6: 0 :Arg7: 34 :Arg8: f79c000
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 820 :Arg1: 58ae558 :Arg2: 1 :Arg3: 58ae570 :Arg4: 58ae56c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 6dc22b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 820 :Arg1: 58ae558 :Arg2: 1 :Arg3: 58ae570 :Arg4: 58ae56c :Arg5: 0 :Arg6: 0 :Arg7: 28 :Arg8: f79c000
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 820 :Arg1: 58ae558 :Arg2: 1 :Arg3: 58ae570 :Arg4: 58ae56c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 6dc22b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 820 :Arg1: 58ae558 :Arg2: 1 :Arg3: 58ae570 :Arg4: 58ae56c :Arg5: 0 :Arg6: 0 :Arg7: fb :Arg8: f79c000
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 820 :Arg1: 58ae558 :Arg2: 1 :Arg3: 58ae570 :Arg4: 58ae56c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 6dc22b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 820 :Arg1: 58ae558 :Arg2: 1 :Arg3: 58ae570 :Arg4: 58ae56c :Arg5: 0 :Arg6: 0 :Arg7: 43 :Arg8: f79c000
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 820 :Arg1: 58ae558 :Arg2: 1 :Arg3: 58ae570 :Arg4: 58ae56c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 6dc22b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 820 :Arg1: 58ae558 :Arg2: 1 :Arg3: 58ae570 :Arg4: 58ae56c :Arg5: 0 :Arg6: 0 :Arg7: 24 :Arg8: f79c000
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 820 :Arg1: 58ae558 :Arg2: 1 :Arg3: 58ae570 :Arg4: 58ae56c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 6dc22b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 6e0 :Arg1: 58af4a8 :Arg2: 1 :Arg3: 58af4c0 :Arg4: 58af4bc :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: f3192b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 6e0 :Arg1: 58af4c0 :Arg2: 1 :Arg3: 58af4d8 :Arg4: 58af4d4 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: f3192b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 82c :Arg1: 58af4a8 :Arg2: 1 :Arg3: 58af4c0 :Arg4: 58af4bc :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 74c02b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 82c :Arg1: 58af4a8 :Arg2: 1 :Arg3: 58af4c0 :Arg4: 58af4bc :Arg5: 0 :Arg6: 0 :Arg7: 34 :Arg8: d90e000
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 81c :Arg1: 58af4a8 :Arg2: 1 :Arg3: 58af4c0 :Arg4: 58af4bc :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 64352b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 81c :Arg1: 58af4c0 :Arg2: 1 :Arg3: 58af4d8 :Arg4: 58af4d4 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 64352b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af4a8 :Arg2: 1 :Arg3: 58af4c0 :Arg4: 58af4bc :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af4c0 :Arg2: 1 :Arg3: 58af4d8 :Arg4: 58af4d4 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af428 :Arg2: 1 :Arg3: 58af440 :Arg4: 58af43c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af4a8 :Arg2: 1 :Arg3: 58af4c0 :Arg4: 58af4bc :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af4c0 :Arg2: 1 :Arg3: 58af4d8 :Arg4: 58af4d4 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 820 :Arg1: 58af4a8 :Arg2: 1 :Arg3: 58af4c0 :Arg4: 58af4bc :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 6dc22b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 820 :Arg1: 58af4c0 :Arg2: 1 :Arg3: 58af4d8 :Arg4: 58af4d4 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 6dc22b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 628 :Arg1: 58af4a8 :Arg2: 1 :Arg3: 58af4c0 :Arg4: 58af4bc :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: d38b2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 628 :Arg1: 58af4c0 :Arg2: 1 :Arg3: 58af4d8 :Arg4: 58af4d4 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: d38b2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 82c :Arg1: 58ae558 :Arg2: 1 :Arg3: 58ae570 :Arg4: 58ae56c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 74c02b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 82c :Arg1: 58ae558 :Arg2: 1 :Arg3: 58ae570 :Arg4: 58ae56c :Arg5: 0 :Arg6: 0 :Arg7: 28 :Arg8: d90e000
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 82c :Arg1: 58ae558 :Arg2: 1 :Arg3: 58ae570 :Arg4: 58ae56c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 74c02b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 6e0 :Arg1: 58af4a8 :Arg2: 1 :Arg3: 58af4c0 :Arg4: 58af4bc :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: f3192b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 6e0 :Arg1: 58af4c0 :Arg2: 1 :Arg3: 58af4d8 :Arg4: 58af4d4 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: f3192b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 82c :Arg1: 58af4a8 :Arg2: 1 :Arg3: 58af4c0 :Arg4: 58af4bc :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 74c02b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 82c :Arg1: 58af4c0 :Arg2: 1 :Arg3: 58af4d8 :Arg4: 58af4d4 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 74c02b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 81c :Arg1: 58af4a8 :Arg2: 1 :Arg3: 58af4c0 :Arg4: 58af4bc :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 64352b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 81c :Arg1: 58af4c0 :Arg2: 1 :Arg3: 58af4d8 :Arg4: 58af4d4 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 64352b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af4a8 :Arg2: 1 :Arg3: 58af4c0 :Arg4: 58af4bc :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af4c0 :Arg2: 1 :Arg3: 58af4d8 :Arg4: 58af4d4 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af428 :Arg2: 1 :Arg3: 58af440 :Arg4: 58af43c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af4a8 :Arg2: 1 :Arg3: 58af4c0 :Arg4: 58af4bc :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af4c0 :Arg2: 1 :Arg3: 58af4d8 :Arg4: 58af4d4 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 820 :Arg1: 58af4a8 :Arg2: 1 :Arg3: 58af4c0 :Arg4: 58af4bc :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 6dc22b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 820 :Arg1: 58af4c0 :Arg2: 1 :Arg3: 58af4d8 :Arg4: 58af4d4 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 6dc22b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 628 :Arg1: 58af4a8 :Arg2: 1 :Arg3: 58af4c0 :Arg4: 58af4bc :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: d38b2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 628 :Arg1: 58af4c0 :Arg2: 1 :Arg3: 58af4d8 :Arg4: 58af4d4 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: d38b2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 6e0 :Arg1: 58af4a8 :Arg2: 1 :Arg3: 58af4c0 :Arg4: 58af4bc :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: f3192b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 6e0 :Arg1: 58af4c0 :Arg2: 1 :Arg3: 58af4d8 :Arg4: 58af4d4 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: f3192b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 82c :Arg1: 58af4a8 :Arg2: 1 :Arg3: 58af4c0 :Arg4: 58af4bc :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 74c02b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 82c :Arg1: 58af4c0 :Arg2: 1 :Arg3: 58af4d8 :Arg4: 58af4d4 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 74c02b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 81c :Arg1: 58af4a8 :Arg2: 1 :Arg3: 58af4c0 :Arg4: 58af4bc :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 64352b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 81c :Arg1: 58af4c0 :Arg2: 1 :Arg3: 58af4d8 :Arg4: 58af4d4 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 64352b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af4a8 :Arg2: 1 :Arg3: 58af4c0 :Arg4: 58af4bc :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af4c0 :Arg2: 1 :Arg3: 58af4d8 :Arg4: 58af4d4 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af428 :Arg2: 1 :Arg3: 58af440 :Arg4: 58af43c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af4a8 :Arg2: 1 :Arg3: 58af4c0 :Arg4: 58af4bc :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af4c0 :Arg2: 1 :Arg3: 58af4d8 :Arg4: 58af4d4 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 820 :Arg1: 58af4a8 :Arg2: 1 :Arg3: 58af4c0 :Arg4: 58af4bc :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 6dc22b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 820 :Arg1: 58af4c0 :Arg2: 1 :Arg3: 58af4d8 :Arg4: 58af4d4 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 6dc22b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 628 :Arg1: 58af4a8 :Arg2: 1 :Arg3: 58af4c0 :Arg4: 58af4bc :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: d38b2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 628 :Arg1: 58af4c0 :Arg2: 1 :Arg3: 58af4d8 :Arg4: 58af4d4 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: d38b2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 82c :Arg1: 58ae558 :Arg2: 1 :Arg3: 58ae570 :Arg4: 58ae56c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 74c02b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 82c :Arg1: 58ae558 :Arg2: 1 :Arg3: 58ae570 :Arg4: 58ae56c :Arg5: 0 :Arg6: 0 :Arg7: c3 :Arg8: d90e000
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 82c :Arg1: 58ae558 :Arg2: 1 :Arg3: 58ae570 :Arg4: 58ae56c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 74c02b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 82c :Arg1: 58ae558 :Arg2: 1 :Arg3: 58ae570 :Arg4: 58ae56c :Arg5: 0 :Arg6: 0 :Arg7: 20 :Arg8: d90e000
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 82c :Arg1: 58ae558 :Arg2: 1 :Arg3: 58ae570 :Arg4: 58ae56c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 74c02b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 82c :Arg1: 58ae558 :Arg2: 1 :Arg3: 58ae570 :Arg4: 58ae56c :Arg5: 0 :Arg6: 0 :Arg7: 24 :Arg8: d90e000
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 82c :Arg1: 58ae558 :Arg2: 1 :Arg3: 58ae570 :Arg4: 58ae56c :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 74c02b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 5ac :Arg1: 58ae658 :Arg2: 1 :Arg3: 58ae670 :Arg4: 58ae66c :Arg5: 0 :Arg6: 0 :Arg7: fa0 :Arg8: 58ae938
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 63c :Arg1: 58af5f0 :Arg2: 1 :Arg3: 58af608 :Arg4: 58af604 :Arg5: 0 :Arg6: 0 :Arg7: 1 :Arg8: 58af8bf
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 6cc :Arg1: 58af5f0 :Arg2: 1 :Arg3: 58af608 :Arg4: 58af604 :Arg5: 0 :Arg6: 0 :Arg7: 1 :Arg8: 58af8bf
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 6e0 :Arg1: 58af4f0 :Arg2: 1 :Arg3: 58af508 :Arg4: 58af504 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: f3192b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 624 :Arg1: 58af5f0 :Arg2: 1 :Arg3: 58af608 :Arg4: 58af604 :Arg5: 0 :Arg6: 0 :Arg7: 1 :Arg8: 58af8bf
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 82c :Arg1: 58af4f0 :Arg2: 1 :Arg3: 58af508 :Arg4: 58af504 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 74c02b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 81c :Arg1: 58af4f0 :Arg2: 1 :Arg3: 58af508 :Arg4: 58af504 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 64352b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58af4f0 :Arg2: 1 :Arg3: 58af508 :Arg4: 58af504 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 6b4 :Arg1: 58af4f0 :Arg2: 1 :Arg3: 58af508 :Arg4: 58af504 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e5062b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 5fc :Arg1: 58af5f0 :Arg2: 1 :Arg3: 58af608 :Arg4: 58af604 :Arg5: 0 :Arg6: 0 :Arg7: 1 :Arg8: 58af8bf
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 820 :Arg1: 58af4f0 :Arg2: 1 :Arg3: 58af508 :Arg4: 58af504 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 6dc22b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 628 :Arg1: 58af4f0 :Arg2: 1 :Arg3: 58af508 :Arg4: 58af504 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: d38b2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: 0
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 6cc :Arg1: 58ae658 :Arg2: 1 :Arg3: 58ae670 :Arg4: 58ae66c :Arg5: 0 :Arg6: 0 :Arg7: fa0 :Arg8: 58ae938
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 63c :Arg1: 58ae658 :Arg2: 1 :Arg3: 58ae670 :Arg4: 58ae66c :Arg5: 0 :Arg6: 0 :Arg7: fa0 :Arg8: 58ae938
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 6e0 :Arg1: 58ae540 :Arg2: 1 :Arg3: 58ae558 :Arg4: 58ae554 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: f3192b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 624 :Arg1: 58ae658 :Arg2: 1 :Arg3: 58ae670 :Arg4: 58ae66c :Arg5: 0 :Arg6: 0 :Arg7: fa0 :Arg8: 58ae938
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 82c :Arg1: 58ae540 :Arg2: 1 :Arg3: 58ae558 :Arg4: 58ae554 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 74c02b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 81c :Arg1: 58ae540 :Arg2: 1 :Arg3: 58ae558 :Arg4: 58ae554 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 64352b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 674 :Arg1: 58ae540 :Arg2: 1 :Arg3: 58ae558 :Arg4: 58ae554 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e49c2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 6b4 :Arg1: 58ae540 :Arg2: 1 :Arg3: 58ae558 :Arg4: 58ae554 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: e5062b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 5fc :Arg1: 58ae658 :Arg2: 1 :Arg3: 58ae670 :Arg4: 58ae66c :Arg5: 0 :Arg6: 0 :Arg7: fa0 :Arg8: 58ae938
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 820 :Arg1: 58ae540 :Arg2: 1 :Arg3: 58ae558 :Arg4: 58ae554 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: 6dc22b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 628 :Arg1: 58ae540 :Arg2: 1 :Arg3: 58ae558 :Arg4: 58ae554 :Arg5: 0 :Arg6: 0 :Arg7: 5 :Arg8: d38b2b4
+TID: 3 :IP: 75367120 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Ret: ffffffff
+TID: 3 :IP: 75367089 :Name: C:\Windows\system32\WS2_32.dll:WSARecv :Possible args - Arg0: 1dc :Arg1: 58af340 :Arg2: 1 :Arg3: 58af358 :Arg4: 58af354 :Arg5: 0 :Arg6: 0 :Arg7: 400 :Arg8: 58af5e8
