@@ -36,6 +36,5 @@ if (doattach):
 		returnv = subprocess.call(pinbat + ' -follow_execv -pid '+ str(pid) +' -t ' + pintool  + ' -o ' + outputfile + ' -s ' + str(dostacktrace) + ' -r ' + regex + ' --' , shell=True)
 	else:
 		print getTimeStamp() + " couldn't find service"
-		sys.exit(0)
 else:
 	returnv = subprocess.call(pinbat + ' -follow_execv -t ' + pintool  + ' -o ' + outputfile + ' -s ' + str(dostacktrace) + ' -r ' + regex + ' -- "' + program + '" ' + inputfile, shell=True)
